@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMSApi", "CMSApi\CMSApi.csproj", "{3DB77876-F560-4B4D-A496-843050F1704B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{C978E903-3BB1-4D51-B3A2-90103D3DBE7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DB77876-F560-4B4D-A496-843050F1704B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB77876-F560-4B4D-A496-843050F1704B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB77876-F560-4B4D-A496-843050F1704B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB77876-F560-4B4D-A496-843050F1704B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C978E903-3BB1-4D51-B3A2-90103D3DBE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C978E903-3BB1-4D51-B3A2-90103D3DBE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C978E903-3BB1-4D51-B3A2-90103D3DBE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C978E903-3BB1-4D51-B3A2-90103D3DBE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {649785C4-AF0F-4958-B3CC-F1641534031D}
+	EndGlobalSection
+EndGlobal
